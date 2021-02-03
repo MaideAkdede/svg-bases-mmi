@@ -4,4 +4,21 @@
 	- au départ il a sa taille ;
 	- à la moitié du temps, il a la moitité de sa taille ;
 	- à la fin, il revient à sa taille normale
+	6.28rad = 180deg
 */
+img{
+    animation: spin 0.5s ease-in-out ;
+}
+img:hover{
+    animation: pulse .5s ease-in-out infinite;
+    cursor: pointer;
+}
+@keyframes spin {
+    0%{ transform: rotate(0);}
+    100%{ transform: rotate(6.28rad);}
+}
+@keyframes pulse {
+    0%{ transform: scale(1); }
+    50%{ transform: scale(.8);}
+    100%{ transform: scale(1);}
+}

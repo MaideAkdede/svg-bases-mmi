@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efde48dc-23a3-468b-ba4e-4e6b32808db8" name="Default Changelist" comment="" />
+    <list default="true" id="efde48dc-23a3-468b-ba4e-4e6b32808db8" name="Default Changelist" comment=":pencil2: completing n1-intro + n2-phone">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-01-phone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-01-phone/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-01-phone/phone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-01-phone/phone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-01-phone/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-01-phone/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-03-logo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-03-logo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-03-logo/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-03-logo/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +20,14 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4fe1e2e3-845d-44a2-a5bf-8ca598e942a9" />
+  </component>
   <component name="ProjectId" id="1nyK5IZQNsCtwfQ0MswJYdfPGdV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -38,11 +56,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612356705526</updated>
-      <workItem from="1612356710947" duration="1581000" />
+      <workItem from="1612356710947" duration="7953000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1647" y="104" key="CommitChangelistDialog2" timestamp="1612363347814">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1647" y="104" key="CommitChangelistDialog2/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612363347814" />
+    <state x="-1389" y="454" key="Github.Dialog.Accounts.Choose" timestamp="1612358784928">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1389" y="454" key="Github.Dialog.Accounts.Choose/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612358784928" />
+    <state x="-1427" y="421" key="Github.ShareDialog" timestamp="1612358752583">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1427" y="421" key="Github.ShareDialog/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612358752583" />
+    <state x="-1488" y="240" key="Github.UntrackedFilesDialog" timestamp="1612358779166">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1488" y="240" key="Github.UntrackedFilesDialog/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612358779166" />
+    <state width="550" height="445" key="SwitcherDM" timestamp="1612364552795">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="550" height="445" key="SwitcherDM/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612364552795" />
   </component>
 </project>

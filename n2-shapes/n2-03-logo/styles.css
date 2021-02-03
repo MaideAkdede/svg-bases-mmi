@@ -13,3 +13,31 @@
 Etape 2 :
 - Ramenez ici toutes les propriétés de style du SVG qui peuvent être exportées dans un fichier CSS
 */
+:root{
+    --light-color: #008B6F;
+    --dark-color: #00392D;
+}
+circle{
+    fill: transparent;
+    stroke: var(--light-color);
+    stroke-width: 7px;
+}
+line{
+    stroke: var(--dark-color);
+    stroke-width: 5px;
+    stroke-linecap: round;
+}
+text{
+    font-family: "luckiest_guyregular", "cursive", "Comic Sans MS";
+    fill: #F6F7F3;
+    stroke: var(--dark-color);
+    stroke-width: 3px;
+    font-size: 60px;
+    text-anchor: middle;
+}
+polygon{
+    fill: var(--light-color);
+    stroke: var(--dark-color);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+}
