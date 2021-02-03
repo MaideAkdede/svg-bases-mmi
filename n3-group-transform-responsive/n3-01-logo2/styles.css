@@ -2,8 +2,8 @@
     font-family: 'luckiest_guyregular';
     src: url('luckiestguy-webfont.eot');
     src: url('luckiestguy-webfont.eot?#iefix') format('embedded-opentype'),
-    url('luckiestguy-webfont.woff2') format('woff2'),
-    url('luckiestguy-webfont.woff') format('woff'),
+    url('../../n2-shapes/n2-03-logo/luckiestguy-webfont.woff2') format('woff2'),
+    url('../../n2-shapes/n2-03-logo/luckiestguy-webfont.woff') format('woff'),
     url('luckiestguy-webfont.ttf') format('truetype'),
     url('luckiestguy-webfont.svg#luckiest_guyregular') format('svg');
     font-weight: normal;
@@ -14,3 +14,31 @@
 Stylez les petits triangles :
 - ils doivent tous avoir un contour de 1px d'épaisseur et un remplissage de couleur #59BFC6
 */
+:root{
+    --light-color: #008B6F;
+    --dark-color: #00392D;
+}
+circle{
+    fill: transparent;
+    stroke: var(--light-color);
+    stroke-width: 7px;
+}
+line{
+    stroke: var(--dark-color);
+    stroke-width: 5px;
+    stroke-linecap: round;
+}
+text{
+    font-family: "luckiest_guyregular", "cursive", "Comic Sans MS";
+    fill: #F6F7F3;
+    stroke: var(--dark-color);
+    stroke-width: 3px;
+    font-size: 60px;
+    text-anchor: middle;
+}
+polygon{
+    fill: var(--light-color);
+    stroke: var(--dark-color);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+}

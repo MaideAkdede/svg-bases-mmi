@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efde48dc-23a3-468b-ba4e-4e6b32808db8" name="Default Changelist" comment=":pencil2: completing n1-intro + n2-phone">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="efde48dc-23a3-468b-ba4e-4e6b32808db8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-01-phone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-01-phone/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-01-phone/phone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-01-phone/phone.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-01-phone/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-01-phone/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-03-logo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-03-logo/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/n2-shapes/n2-03-logo/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-03-logo/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,18 +53,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612356705526</updated>
-      <workItem from="1612356710947" duration="7953000" />
+      <workItem from="1612356710947" duration="10494000" />
     </task>
+    <task id="LOCAL-00001" summary=":pencil2: completing n2-03-logo + adding fonts">
+      <created>1612365758230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612365758230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":pencil2: completing n2-03-logo + adding fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value=":pencil2: completing n2-03-logo + adding fonts" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-1647" y="104" key="CommitChangelistDialog2" timestamp="1612363347814">
+    <state x="-1647" y="104" key="CommitChangelistDialog2" timestamp="1612365757971">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state x="-1647" y="104" key="CommitChangelistDialog2/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612363347814" />
+    <state x="-1647" y="104" key="CommitChangelistDialog2/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612365757971" />
     <state x="-1389" y="454" key="Github.Dialog.Accounts.Choose" timestamp="1612358784928">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
@@ -80,9 +89,9 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1488" y="240" key="Github.UntrackedFilesDialog/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612358779166" />
-    <state width="550" height="445" key="SwitcherDM" timestamp="1612364552795">
+    <state width="550" height="445" key="SwitcherDM" timestamp="1612366189368">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="550" height="445" key="SwitcherDM/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612364552795" />
+    <state width="550" height="445" key="SwitcherDM/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612366189368" />
   </component>
 </project>

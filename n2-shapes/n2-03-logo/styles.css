@@ -14,7 +14,7 @@ Etape 2 :
 - Ramenez ici toutes les propriétés de style du SVG qui peuvent être exportées dans un fichier CSS
 */
 :root{
-    --light-color: #008B6F;
+--light-color: #008B6F;
     --dark-color: #00392D;
 }
 circle{
