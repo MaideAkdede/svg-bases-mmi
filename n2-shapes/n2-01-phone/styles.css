@@ -1,0 +1,7 @@
+/* animez le téléphone pour que
+- au chargement de la page, il tourne une fois sur lui même avec un départ lent, puis une accélération et une décélération à la fin ; 
+- au survol, il pulse toutes les 1/2 secondes :
+	- au départ il a sa taille ;
+	- à la moitié du temps, il a la moitité de sa taille ;
+	- à la fin, il revient à sa taille normale
+*/

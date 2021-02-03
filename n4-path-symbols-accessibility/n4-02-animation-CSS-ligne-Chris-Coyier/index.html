@@ -1,0 +1,34 @@
+<!--
+	Source : How SVG Line Animation Works, CSS-Tricks - Chris Coyier
+	https://css-tricks.com/svg-line-animation-works/
+	Voir aussi : Animated line drawing in SVG - Jake Archibald
+	https://jakearchibald.com/2013/animated-line-drawing-svg/
+	=> démo interactive où on peut faire varier le dasharray et le dashoffset pour comprendre ce qui se passe
+-->
+<!DOCTYPE html>
+<html lang="fr">
+ 	<head>
+ 		<meta charset="utf-8">
+ 		<meta name="description" content="Description">
+ 		<title>Animation d’une ligne SVG</title>
+ 		<link rel="stylesheet" href="styles.css">
+ 	</head>
+	<body>
+		<h1>Animation d’une ligne SVG</h1>
+		<svg 	id="Layer_1"
+				xmlns="http://www.w3.org/2000/svg"
+				version="1.1"
+				x="0"
+				y="0"
+				width="340"
+				height="333"
+				viewBox="0 0 340 333">
+				<title>Un path animé</title>
+				<desc>Une ligne qui se dessine progressivement jusqu’à une forme de nuage</desc>
+			<path	class="path"
+					d="M66.039,133.545c0,0-21-57,18-67s49-4,65,8
+			s30,41,53,27s66,4,58,32s-5,44,18,57s22,46,0,45s-54-40-68-16s-40,88-83,48s11-61-11-80s-79-7-70-41
+			C46.039,146.545,53.039,128.545,66.039,133.545z"/>
+		</svg>
+	</body>
+</html>

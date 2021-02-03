@@ -1,0 +1,7 @@
+/* animez le téléphone pour que
+- au survol du téléphone, le bouton de démarrage du téléphone pulse toutes les 2 secondes :
+	- au départ il a sa taille ;
+	- à la moitié du temps, il a la moitité de sa taille ;
+	- à la fin, il revient à sa taille normale
+Attention, le bouton doit rester centré !
+*/

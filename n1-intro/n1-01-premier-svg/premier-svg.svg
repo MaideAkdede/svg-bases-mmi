@@ -1,0 +1,13 @@
+<!--
+créer un svg de 300 px de haut et 400 px de large
+vide
+Vous avez aussi besoin de définir deux attributs, 
+- xmlns="http://www.w3.org/2000/svg"
+- version="1.1"
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     width="400"
+     height="300">
+
+</svg>

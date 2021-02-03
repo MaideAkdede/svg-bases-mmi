@@ -1,0 +1,13 @@
+/*
+faire apparaître la ligne en suivant la technique décrite dans le tutoriel 
+https://css-tricks.com/svg-line-animation-works/
+Vous aurez besoin de connaître la longueur du path. Il y a deux moyens pour la connaître :
+- en utilisant l'inspecteur
+- par Javascript : complétez le script JS pour l’obtenir.
+*/
+
+path {
+    fill: #FFFFFF;
+    stroke: #008B6F;
+    stroke-width: 4px;
+}

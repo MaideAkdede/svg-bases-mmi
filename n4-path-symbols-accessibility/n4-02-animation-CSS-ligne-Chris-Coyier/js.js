@@ -1,0 +1,1 @@
+/* Affichez dans la console la longueur du path */

@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'luckiest_guyregular';
+    src: url('luckiestguy-webfont.eot');
+    src: url('luckiestguy-webfont.eot?#iefix') format('embedded-opentype'),
+    url('luckiestguy-webfont.woff2') format('woff2'),
+    url('luckiestguy-webfont.woff') format('woff'),
+    url('luckiestguy-webfont.ttf') format('truetype'),
+    url('luckiestguy-webfont.svg#luckiest_guyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/* reprenez ici votre feuille de style de l'exercie n3-02-logo2-transforms, nous allons la compéter */
+/*
+Ajoutez les règles de style nécessaires pour rendre le SVG responsive
+*/

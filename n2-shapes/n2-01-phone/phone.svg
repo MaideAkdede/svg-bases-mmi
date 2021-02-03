@@ -1,0 +1,17 @@
+<!--
+créer un svg de 80px de haut et 110px de large
+Vous avez aussi besoin de définir deux attributs, 
+- xmlns="http://www.w3.org/2000/svg"
+- version="1.1"
+-->
+
+<!--
+1. Placez-y un rectangle de 100 de haut et 70 de large avec une bordure rouge (#FF2626) de 10px de large et un remplissage blanc ;
+2. Affichez-le dans le navigateur : que se passe-t-il avec la bordure ?
+3. Décalez le rectangle pour que la bordure s'affiche correctement (il doit aller en (5, 5) ) ;
+4. Placez un cercle blanc d'un rayon de 4px sur le bas du rectangle pour faire le bouton d'allumage (il doit aller en (40, 105) ) ;
+5. Arrondissez les bords du rectangle principal (les bords arrondis doivent avoir un rayon de 5px)
+-->
+
+<!-- N’oubliez pas les balises title et desc pour l’accessibilité -->
+

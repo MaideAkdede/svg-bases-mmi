@@ -1,0 +1,49 @@
+<!--
+créer un svg de 300 px de haut et 400 px de large
+Vous avez aussi besoin de définir deux attributs, 
+- xmlns="http://www.w3.org/2000/svg"
+- version="1.1"
+-->
+
+<!--
+1. Placez-y un rectangle de 80 de haut et 100 de large (ce rectangle a, par défaut, un remplissage noir) ;
+2. Ajoutez un 2e rectangle de 50 de haut et 80 de large avec un remplissage blanc. 
+	a) Affichez-le : il est en 0, 0
+	b) Décalez-le pour qu'il soit centré dans le noir (il faut le mettre en (10, 10))
+3. Ajouter un 3e rectangle noir de 10 de haut et 40 de large pour dessiner le support. Ce rectangle doit se positionner en (30, 90).
+-->
+
+<!-- N’oubliez pas les balises title et desc pour l’accessibilité -->
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     width="100"
+     height="100"
+>
+        <title>
+                Mon super écran Retina
+        </title>
+        <desc>
+              Un logo SVG d'un écran retina en noir et blanc
+        </desc>
+        <rect height="80"
+              width="100"
+        />
+        <rect height="50"
+              width="80"
+              fill="white"
+              x="10"
+              y="10"
+        />
+        <rect height="10"
+              width="40"
+              x="30"
+              y="90"
+        />
+</svg>
+
+
+
+
+
+

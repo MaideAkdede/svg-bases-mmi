@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'luckiest_guyregular';
+    src: url('luckiestguy-webfont.eot');
+    src: url('luckiestguy-webfont.eot?#iefix') format('embedded-opentype'),
+    url('luckiestguy-webfont.woff2') format('woff2'),
+    url('luckiestguy-webfont.woff') format('woff'),
+    url('luckiestguy-webfont.ttf') format('truetype'),
+    url('luckiestguy-webfont.svg#luckiest_guyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Sortez de cette feuille de style les règles qui s’appliquent au SVG et intégrez-les dans le fichier SVG grâce à la balise style */
+
+/* Stylez la balise img pour qu’elle soit responsive et occupe la moitié de la largeur de son parent */
+
+img {
+    display: block;
+    width: 50%;
+    height: auto;
+}
