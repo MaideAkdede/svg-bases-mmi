@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efde48dc-23a3-468b-ba4e-4e6b32808db8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/n2-shapes/n2-03-logo/luckiestguy-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n2-shapes/n2-03-logo/luckiestguy-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/luckiestguy-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/luckiestguy-webfont.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-03-logo/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-03-logo/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-03-logo2-transforms-responsive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-03-logo2-transforms-responsive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-03-logo2-transforms-responsive/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-03-logo2-transforms-responsive/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +40,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -53,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612356705526</updated>
-      <workItem from="1612356710947" duration="10494000" />
+      <workItem from="1612356710947" duration="12782000" />
     </task>
     <task id="LOCAL-00001" summary=":pencil2: completing n2-03-logo + adding fonts">
       <created>1612365758230</created>
@@ -62,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612365758230</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=":pencil2: completing n3-02-logo2-transform">
+      <created>1612368813051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612368813051</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,13 +89,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":pencil2: completing n2-03-logo + adding fonts" />
-    <option name="LAST_COMMIT_MESSAGE" value=":pencil2: completing n2-03-logo + adding fonts" />
+    <MESSAGE value=":pencil2: completing n3-02-logo2-transform" />
+    <option name="LAST_COMMIT_MESSAGE" value=":pencil2: completing n3-02-logo2-transform" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1647" y="104" key="CommitChangelistDialog2" timestamp="1612365757971">
+    <state x="-1647" y="104" key="CommitChangelistDialog2" timestamp="1612368812865">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state x="-1647" y="104" key="CommitChangelistDialog2/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612365757971" />
+    <state x="-1647" y="104" key="CommitChangelistDialog2/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612368812865" />
     <state x="-1389" y="454" key="Github.Dialog.Accounts.Choose" timestamp="1612358784928">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
