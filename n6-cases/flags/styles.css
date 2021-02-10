@@ -3,14 +3,43 @@
 }
 /**
 Dans l’image originale, les positions des 6 drapeaux utilisés dans la page sont :
-- de (196px, 35px)
-- fr (10px, 60px)
-- lu (72px, 110px)
-- ch (475px, 10px)
-- es (413px, 35px)
-- nl (506px, 110px)
+- de(196px, 35px)
+- fr(10px, 60px)
+- lu(72px, 110px)
+- ch(475px, 10px)
+- es(413px, 35px)
+- nl(506px, 110px)
 et la taille de chaque drapeau est 21 sur 15
 
 Les propriétés CSS les plus utiles ici seront object-position et object-fit
-
+>>>>> https://css-tricks.com/almanac/properties/o/object-position/ <<<<<
 **/
+
+.flag__de {
+    object-position: -196px -35px;
+}
+.flag__fr {
+    object-position: -10px -60px;
+
+}
+.flag__lu {
+    object-position: -72px -110px;
+
+}
+.flag__ch {
+    object-position: -475px -10px;
+
+}
+.flag__es {
+    object-position: -413px -35px;
+
+}
+.flag__nl {
+    object-position: -506px -110px;
+
+}
+img{
+    object-fit: none;
+    width: 21px;
+    height: 15px;
+}
