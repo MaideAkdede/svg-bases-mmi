@@ -1,0 +1,22 @@
+/**
+ * Attempt for Chrome-style progress-indicator with SVG and CSS animations
+ */
+ /**
+	- Définissez une animation en 4 étapes pour faire changer la couleur du trait
+		- 0%: #00aeef
+		- 37.5%: #ed1c24;
+		- 67.5%: #f69f37;
+		- 100%: #00aeef;
+ 	Profitez de cette animation pour définir le décalage finale du trait
+
+ 	Définissez le viewport de votre élément SVG sur 500/500
+
+	Le cube doit avoir :
+	- un trait initialement noir
+	- un fond transparent
+	- des jonctions de lignes rondes
+	- des terminaisons de lignes rondes
+	- une épaisseur de trait de 4
+	- une animation de 3.5 s linéaire et en boucle
+	- un trait environ au 4/5 vide
+**/

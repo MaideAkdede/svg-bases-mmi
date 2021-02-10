@@ -1,0 +1,19 @@
+/**
+ * Attempt for Chrome-style progress-indicator with SVG and CSS animations
+ */
+
+@keyframes spin {
+    to {
+        stroke-dashoffset: -264;
+    }
+}
+
+.progress circle {
+    fill: none;
+    stroke: slategray;
+    stroke-width: 16;
+    stroke-linecap: round;
+    stroke-dasharray: 0, 0, 50, 214;
+    stroke-dashoffset: 0;
+    animation: spin 1s infinite linear;
+}

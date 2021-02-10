@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'montserrat';
+    src: url('montserrat-bold/montserrat-bold.woff2?#iefix') format('woff2'),
+         url('montserrat-bold/montserrat-bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+body {
+	font: 2rem/1.5 'montserrat', sans-serif;
+	/*font-family: Brandon Text, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;*/
+	color: rgb(67, 65, 78);
+	position: relative;
+	padding-bottom: 2rem;
+}
+h1{
+	text-align: center;
+	color: darkturquoise;
+	margin: 0;
+}
+#myobj{
+	margin-bottom: 2rem;
+}
+button {
+	font: 2rem 'montserrat', sans-serif;
+	color: mediumturquoise;
+	padding: 0.25em 0.75em;
+	border: 4px solid mediumturquoise;
+	border-radius : 8px;
+	background-color: #fff;
+	position: absolute;
+	bottom: 0px;
+	right: 5px;
+	transition : 0.3s ease-in-out;
+	cursor: pointer;
+}
+button:hover{
+	background-color: #40E0D0;
+	color: #fff;
+}

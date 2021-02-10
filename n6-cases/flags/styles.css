@@ -1,0 +1,16 @@
+*{
+    font-family: "Avenir Next", sans-serif;
+}
+/**
+Dans l’image originale, les positions des 6 drapeaux utilisés dans la page sont :
+- de (196px, 35px)
+- fr (10px, 60px)
+- lu (72px, 110px)
+- ch (475px, 10px)
+- es (413px, 35px)
+- nl (506px, 110px)
+et la taille de chaque drapeau est 21 sur 15
+
+Les propriétés CSS les plus utiles ici seront object-position et object-fit
+
+**/
