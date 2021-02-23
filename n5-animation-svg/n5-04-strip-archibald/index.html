@@ -175,10 +175,35 @@
   (function () {
     /**
         Écrivez le script qui anime les différentes parties du path
+     fonction anonyme
     **/
+        const svg = document.querySelector("svg");
+        const paths = Array.from(svg.querySelectorAll('path:not(.shade)'));
+        paths.push(svg.querySelector('path.shade'));
+        const durations = paths.map(path => {
+            const length = path.getTotalLength();
+            path.style.transition = 'none';
+            path.style.strokeDasharray = `${length} ${length}`;
+            path.style.strokeDashoffset = length;
+            return Math.pow(length, 0.5) * 0.03;
+            if(path.classList.contains('shade')){
+                return 5;
+            } else if (path.classList.contains('letter')){
+                return Math.pow(length, 0.5) * 0.02;
+            } else {
+                return Math.pow(length, 0.5) * 0.03;
+            }
+        });
+        paths[0].getBoundingClientRect();
+        svg.parentNode.style.visibility = 'visible';
+        let begin = 0;
+        paths.forEach((path, i) =>{
+            path.style.transition = 'stroke-dashoffset ' + durations[i] + 's ease-in-out ' + begin + 's';
+            begin += durations[i] + 0.1;
+            path.style.strokeDashoffset = 0 ;
+        })
     }()
   )
-
 </script>
 </body>
 </html>

@@ -3,3 +3,19 @@
 - des jointures de ligne arrondies ;
 - un remplissage de couleur #008B6F
 */
+:root {
+    --light-color: #008B6F;
+    --dark-color: #00392D;
+}
+
+line {
+    stroke: var(--dark-color);
+    stroke-width: 5px;
+    stroke-linecap: round;
+}
+polygon, path {
+    fill: var(--light-color);
+    stroke: var(--dark-color);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+}

@@ -9,5 +9,16 @@ Vous aurez besoin de connaître la longueur du path. Il y a deux moyens pour la 
 path {
     fill: #FFFFFF;
     stroke: #008B6F;
+    stroke-dasharray: 821.609375 821.609375;
+    stroke-dashoffset: 821.609375;
     stroke-width: 4px;
+    animation: path 2s linear alternate infinite;
+}
+@keyframes path {
+    from {
+        stroke-dashoffset: 821.609375;
+    }
+    to {
+        stroke-dashoffset: 0;
+    }
 }

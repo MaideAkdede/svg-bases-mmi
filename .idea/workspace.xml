@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efde48dc-23a3-468b-ba4e-4e6b32808db8" name="Default Changelist" comment=":pencil2: completing exercices of the day Wedn Feb 3rd">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="efde48dc-23a3-468b-ba4e-4e6b32808db8" name="Default Changelist" comment=":tada: Initial commit New Files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n4-path-symbols-accessibility/n4-01-polygon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n4-path-symbols-accessibility/n4-01-polygon/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n4-path-symbols-accessibility/n4-01-polygon/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n4-path-symbols-accessibility/n4-01-polygon/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n4-path-symbols-accessibility/n4-02-animation-CSS-ligne-Chris-Coyier/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/n4-path-symbols-accessibility/n4-02-animation-CSS-ligne-Chris-Coyier/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n4-path-symbols-accessibility/n4-02-animation-CSS-ligne-Chris-Coyier/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n4-path-symbols-accessibility/n4-02-animation-CSS-ligne-Chris-Coyier/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n5-animation-svg/n5-01-loading-spinner-Lea-Verou/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n5-animation-svg/n5-01-loading-spinner-Lea-Verou/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n5-animation-svg/n5-02-animated-cube-Josh-Matz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n5-animation-svg/n5-02-animated-cube-Josh-Matz/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n5-animation-svg/n5-02-animated-cube-Josh-Matz/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n5-animation-svg/n5-02-animated-cube-Josh-Matz/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n5-animation-svg/n5-03-animated-line-Archibald/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n5-animation-svg/n5-03-animated-line-Archibald/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n5-animation-svg/n5-04-strip-archibald/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n5-animation-svg/n5-04-strip-archibald/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n5-animation-svg/n5-05-animated-drawing-Brian-Suda/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/n5-animation-svg/n5-05-animated-drawing-Brian-Suda/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,13 +29,16 @@
     <option name="defaultAccountId" value="4fe1e2e3-845d-44a2-a5bf-8ca598e942a9" />
   </component>
   <component name="ProjectId" id="1nyK5IZQNsCtwfQ0MswJYdfPGdV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -40,12 +52,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -57,7 +71,9 @@
       <option name="presentableId" value="Default" />
       <updated>1612356705526</updated>
       <workItem from="1612356710947" duration="12873000" />
-      <workItem from="1612961916842" duration="46000" />
+      <workItem from="1612961916842" duration="12244000" />
+      <workItem from="1612990725523" duration="94000" />
+      <workItem from="1614084752210" duration="14306000" />
     </task>
     <task id="LOCAL-00001" summary=":pencil2: completing n2-03-logo + adding fonts">
       <created>1612365758230</created>
@@ -80,44 +96,49 @@
       <option name="project" value="LOCAL" />
       <updated>1612386970913</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=":pencil2: Update GitIgnore">
+      <created>1612961979018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612961979018</updated>
+    </task>
+    <task id="LOCAL-00005" summary=":tada: Initial commit New Files">
+      <created>1612962045444</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612962045444</updated>
+    </task>
+    <task id="LOCAL-00006" summary=":checkered_flag: completing n6-cases/flags">
+      <created>1612962967385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612962967385</updated>
+    </task>
+    <task id="LOCAL-00007" summary=":pencil2: Completing n4-03-Phone-Multiple">
+      <created>1612964231826</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612964231826</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value=":pencil2: completing n2-03-logo + adding fonts" />
     <MESSAGE value=":pencil2: completing n3-02-logo2-transform" />
     <MESSAGE value=":pencil2: completing exercices of the day Wedn Feb 3rd" />
-    <option name="LAST_COMMIT_MESSAGE" value=":pencil2: completing exercices of the day Wedn Feb 3rd" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="205" y="38" key="CommitChangelistDialog2" timestamp="1612961950255">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="205" y="38" key="CommitChangelistDialog2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1612961950255" />
-    <state x="205" y="38" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1612386970745" />
-    <state x="-1647" y="104" key="CommitChangelistDialog2/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612368812865" />
-    <state x="-1389" y="454" key="Github.Dialog.Accounts.Choose" timestamp="1612358784928">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state x="-1389" y="454" key="Github.Dialog.Accounts.Choose/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612358784928" />
-    <state x="-1427" y="421" key="Github.ShareDialog" timestamp="1612358752583">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state x="-1427" y="421" key="Github.ShareDialog/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612358752583" />
-    <state x="-1488" y="240" key="Github.UntrackedFilesDialog" timestamp="1612358779166">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state x="-1488" y="240" key="Github.UntrackedFilesDialog/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612358779166" />
-    <state width="550" height="445" key="SwitcherDM" timestamp="1612366189368">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="550" height="445" key="SwitcherDM/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1612366189368" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1612386972842">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1612386972842" />
+    <MESSAGE value=":pencil2: Update GitIgnore" />
+    <MESSAGE value=":tada: Initial commit New Files" />
+    <MESSAGE value=":checkered_flag: completing n6-cases/flags" />
+    <MESSAGE value=":pencil2: Completing n4-03-Phone-Multiple" />
+    <option name="LAST_COMMIT_MESSAGE" value=":pencil2: Completing n4-03-Phone-Multiple" />
   </component>
 </project>

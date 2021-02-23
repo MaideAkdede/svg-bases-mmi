@@ -20,3 +20,28 @@
 	- une animation de 3.5 s linéaire et en boucle
 	- un trait environ au 4/5 vide
 **/
+polygon{
+    stroke: black;
+    fill: transparent;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-width: 4;
+    animation: draw 3.5s linear infinite;
+    stroke-dasharray: 50, 185;
+    stroke-dashoffset: 0;
+}
+@keyframes draw {
+    0%{
+        stroke: #00aeef;
+    }
+    37.5% {
+        stroke: #ed1c24;
+    }
+    67.5% {
+        stroke: #f69f37;
+    }
+   100%{
+       stroke: #00aeef;
+       stroke-dashoffset: 234.82347106933594;
+   }
+}

@@ -13,7 +13,7 @@
     stroke: slategray;
     stroke-width: 16;
     stroke-linecap: round;
-    stroke-dasharray: 0, 0, 50, 214;
+    stroke-dasharray: 50, 214;
     stroke-dashoffset: 0;
     animation: spin 1s infinite linear;
 }

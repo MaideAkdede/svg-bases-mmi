@@ -33,9 +33,20 @@
         - définissez la transition du décalage (2secondes, ease-in-out)
         - définissez la valeur de fin du déclage, ce qui déclenche l’animation, sur 0
     **/
+    const path = document.querySelector('.squiggle-animated path');
+    const pathLength = path.getTotalLength();
+
+    function reset() {
+        // console.log(pathLength);
+        path.style.strokeDasharray = `${pathLength}`;
+        path.style.strokeDashoffset = pathLength;
+        path.getBoundingClientRect(); //Force le navigateur à évaluer et à les appliquer
+        path.style.transition = "stroke-dashoffset 2s ease-in-out";
+        path.style.strokeDashoffset = 0 ; //Démarre l'animation
+    }
 </script>
 <div>
-    <button class="squiggle-go btn" onclick="reset()">Dessiner !</button>
+    <button class="squiggle-go btn" onclick="reset()" >Dessiner !</button>
 </div>
 </body>
 </html>
